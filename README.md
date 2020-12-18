@@ -10,5 +10,5 @@ It needs some parameters such as:
 
 The resultant file (cracked hashes) will be named hashes.cracked and will be formatted like this hash:password
 
-Usage: python3 wordlistpuzzle.py
+Usage: python3 crackipy.py
 
