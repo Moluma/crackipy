@@ -1,6 +1,10 @@
 Crackipy cracks hashes using different methods and saves them into a file for you.
 Only works with ascii at the moment!
 
+Installation
+
+sudo pip3 install -r requeriments.txt
+
 It needs some parameters such as:
 
 - Hash-type (md5, sha1, sha256, sha384, sha512, sha3_512, sha3_256, sha3_224)
